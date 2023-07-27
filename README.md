@@ -25,5 +25,4 @@ Que lo niños y niñas desarrollen sus habilidades en el idioma Inglés, aprendi
 
 **Previsualisación de la página web**
 <br>
-![animals](https://github.com/ImeldaChavez/English_Animals/assets/124759407/3dc2545a-45d2-4b4e-b879-960969db8e0a)
-
+![animalesweb](https://github.com/ImeldaChavez/English_Animals/assets/124759407/34146fd7-5b83-4600-88c3-399837728e47)
