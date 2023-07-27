@@ -14,7 +14,7 @@ Utilizando los diferentes elementos que estos lenguajes proporcionan y que permi
 **Importancia del idioma Inglés a temprana edad**
 <br>
 Es muy importante que se desarrollen diferentes habilidades desde pequeños, ya que la estimulasión temprana de nuevos aprendizajes ayuda 
-a los pequeños a desenvolverse mejor en su entorno, aprender un nuevo idioma desde temprana edad ayuda a los niños y niñas a apliar su vocabulario y más a través de la diversidad animal.
+a los pequeños a desenvolverse mejor en su entorno, aprender un nuevo idioma desde temprana edad ayuda a los niños y niñas a ampliar su vocabulario y más a través de la diversidad animal.
 
 **Objetivo de creación de la pagina web**
 <br>
