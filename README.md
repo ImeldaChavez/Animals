@@ -26,4 +26,4 @@ https://englishsiteanimals.netlify.app/
 
 **Previsualisación de la página web**
 <br>
-![animalesweb](https://github.com/ImeldaChavez/English_Animals/assets/124759407/34146fd7-5b83-4600-88c3-399837728e47)
+![animales](https://github.com/ImeldaChavez/English_Animals/assets/124759407/e4309824-6194-4069-ad9a-29c637d57831)
