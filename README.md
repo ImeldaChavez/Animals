@@ -18,7 +18,7 @@ a los pequeños a desenvolverse mejor en su entorno, aprender un nuevo idioma de
 
 **Objetivo de creación de la pagina web**
 <br>
-Que lo niños y niñas desarrollen sus habilidades en el idioma Inglés, aprendiendo el abecedario por medio de animales, asi mismo los números naturales. 
+Que los niños y niñas desarrollen sus habilidades en el idioma Inglés, aprendiendo el abecedario por medio de animales, asi mismo los números naturales. 
 
 **Link de acceso a la página web:**
 <br>
